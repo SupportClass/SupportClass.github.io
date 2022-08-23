@@ -1,15 +1,13 @@
-title: "Deneb - A Digital Agency Jekyll Template"
-email: "tortoizthemes@gmail.com"
+title: "Support Class"
+email: "info@supportclass.net"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Support Class is a broadcast design agency providing development services for productions of all sizes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://deneb-jekyll.tortoizthemes.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: supportclass
 github_username:  jekyll
 site_logo: "/assets/images/logo_1.png"
-copyright: "Copyright &copy; 2020 <span>Deneb</span>. All rights reserved."
+copyright: "Copyright &copy; 2022 <span>Support Class, Inc.</span>. All rights reserved."
 
 permalink: "/:title"
 
@@ -21,7 +19,7 @@ plugins:
   - jekyll-archives
 
 facebook_url: "https://www.facebook.com/tortoiztheme"
-twitter_url: "https://twitter.com/tortoizthemes"
+twitter_url: "https://twitter.com/supportclass"
 instagram_url: "https://instagram.com/"
 
 hero_image: "/assets/images/breadcrumb_bg.jpg"
@@ -140,7 +138,7 @@ disqus:
 
 # Hire us:
 hire_us:
-  heading: "Have Any Project in Mind ?"
+  heading: "Would you like to know more?"
   description: "Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet et leo sed ut nibh feugiat, auctor enim quis."
   button:
     link: "/contact/"

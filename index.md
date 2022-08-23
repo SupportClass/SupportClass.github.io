@@ -4,31 +4,31 @@ layout: home
 # Slider
 slider:
   - image: "/assets/images/banner_1.png"
-    heading: "We Are Creative <br><span>Deneb Agency</span>"
+    heading: "We Design and Develop <br><span>Professional Livestreams</span>"
     heading2: "We Are Professional Freelance Web Designer"
     text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
     button:
-      name: "Hire Me"
+      name: "Hire Us"
       link: "#"
   - image: "/assets/images/banner_02.png"
     heading: "We Are Creative <br><span>Deneb Agency</span>"
     heading2: "We Are Professional Freelance Web Designer"
     text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
     button:
-      name: "Hire Me"
+      name: "Hire Us"
       link: "#"
   - image: "/assets/images/banner_03.png"
     heading: "We Are Creative <br><span>Deneb Agency</span>"
     heading2: "We Are Professional Freelance Web Designer"
     text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
     button:
-      name: "Hire Me"
+      name: "Hire Us"
       link: "#"
 
 # Services
 services:  
-  heading: "Our Service"
-  text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  heading: "Our Services"
+  text: "Since 2014, Support Class has provided unique broadcast experiences "
 
 # About 
 about: 
